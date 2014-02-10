@@ -11,17 +11,20 @@ Requirements
 
 Two Samples
 ----
-This project consists of two folders - Mobile and Web. 
-Mobile App
+This project consists of two folders - Mobile and Web. Each folder contains the appropriate artwork to complete the sample. We'll be using [Marvel App] to create more engaging wireframes that would be appropriate for client-deliverables. 
+
+
+###Web App
+This sample demonstrates the very basic, no-frills approach to making interactive wireframes. <br />
+Finished sample demo:<br />
+http://marvl.in/5djj9
+![Mobile App sample](https://dl.dropboxusercontent.com/u/232969/ID/Web-14.png) 
+
+###Mobile App
+This sample demonstrates how to create a more engaging prototype for mobile devices. <br />
+Finished Sample Demo:<br />
+http://marvl.in/12ffd9
 ![Mobile App sample](https://dl.dropboxusercontent.com/u/232969/ID/mobile-09.png) 
-
-Desktop App
-  - Type some Markdown text in the left window
-  - See the HTML in the right
-  - Magic
-
-The examples are intended to use [Marvel App]
-
 
 
 
@@ -38,15 +41,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 [Marvel App]:https://marvelapp.com
-[@thomasfuchs]:http://twitter.com/thomasfuchs
-[1]:http://daringfireball.net/projects/markdown/
-[marked]:https://github.com/chjj/marked
-[Ace Editor]:http://ace.ajax.org
-[node.js]:http://nodejs.org
-[Twitter Bootstrap]:http://twitter.github.com/bootstrap/
-[keymaster.js]:https://github.com/madrobby/keymaster
-[jQuery]:http://jquery.com
-[@tjholowaychuk]:http://twitter.com/tjholowaychuk
-[express]:http://expressjs.com
+[HERE][1]:http://marvl.in/5djj9
 
     
