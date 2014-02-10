@@ -1,61 +1,28 @@
 Basic Interactivity 
 =========
 
-The 
+This project is intended to show students how to quickly add basic interactions to wireframes or styled compositions. 
 
+Requirements
+----
+* Sign up for a [Marvel App] account
+* Photoshop, Illustrator, or rasterized artwork (provided)
+
+
+Two Samples
+----
+This project consists of two folders - Mobile and Web. 
+Mobile App
+![Mobile App sample](https://dl.dropboxusercontent.com/u/232969/ID/mobile-09.png) 
+
+Desktop App
   - Type some Markdown text in the left window
   - See the HTML in the right
   - Magic
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
+The examples are intended to use [Marvel App]
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable 
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.  
-
-Version
-----
-
-2.0
-
-Tech
------------
-
-Dillinger uses a number of open source projects to work properly:
-
-* [Ace Editor] - awesome web-based text editor
-* [Marked] - a super fast port of Markdown to JavaScript
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework [@tjholowaychuk]
-* [keymaster.js] - awesome keyboard handler lib by [@thomasfuchs]
-* [jQuery] - duh 
-
-Installation
---------------
-
-```sh
-git clone [git-repo-url] dillinger
-cd dillinger
-npm i -d
-mkdir -p public/files/{md,html,pdf}
-```
-
-##### Configure Plugins. Instructions in following README.md files
-
-* plugins/dropbox/README.md
-* plugins/github/README.md
-* plugins/googledrive/README.md
-
-```sh
-node app
-```
 
 
 License
@@ -63,10 +30,14 @@ License
 
 MIT
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-**Free Software, Hell Yeah!**
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-[john gruber]:http://daringfireball.net/
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+[Marvel App]:https://marvelapp.com
 [@thomasfuchs]:http://twitter.com/thomasfuchs
 [1]:http://daringfireball.net/projects/markdown/
 [marked]:https://github.com/chjj/marked
