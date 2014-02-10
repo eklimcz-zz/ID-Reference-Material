@@ -41,6 +41,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 [Marvel App]:https://marvelapp.com
-[HERE][1]:http://marvl.in/5djj9
+
 
     
