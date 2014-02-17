@@ -15,36 +15,36 @@ The [the final output](http://jsbin.com/wowitore/6/edit?output "the final output
 * [Css3please!](http://css3please.com/ CSS3 Please!) - Simple reference for CSS3 properties 
 
 ## Asset Urls
-Background Url
+**Background Url**
 
 `https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/bg.jpg`
 
-Profile pic 
+**Profile pic **
 
 `https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/profile-erik.jpg`
 
-Twitter icon 
+**Twitter icon** 
 
 `https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-twitter.png`
 
-Dribbbleicon  
+**Dribbbleicon ** 
 
 `https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-dribbble.png`
 
-Email icon 
+**Email icon** 
 
 `https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-email.png`
 
 ##Code Snips
 
-CSS Transition
+**CSS Transition**
 
 `   -moz-transition:all .15s ease-out;
     -o-transition:all .15s ease-out;    
 	-webkit-transition:all .15s ease-out;	    
 	transition:all .15s ease-out; `
     
-CSS Transform
+**CSS Transform**
 
 `    -moz-transform:translate(0px,-5px);
     -ms-transform:translate(0px,-5px);
