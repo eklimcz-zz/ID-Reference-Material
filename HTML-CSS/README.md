@@ -3,8 +3,8 @@ HTML/CSS Sample
 
 This is an example to demonstrate how students can easily create their own digital business card.
 
-The [the final output](http://jsbin.com/wowitore/6/edit?output "the final output") can be seen here:
-![Alt text](https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/preview_thumb.png)
+The final output can be seen [the final output](http://jsbin.com/wowitore/6/edit?output "here").
+
 
 ##Requirements
 * **JS Bin** - a free online code editing playground. Sign up here: http://jsbin.com/
