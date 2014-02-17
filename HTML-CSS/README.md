@@ -17,7 +17,7 @@ This is an example to demonstrate how students can easily create their own digit
 
 `https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/bg.jpg`
 
-**Profile pic **
+**Profile pic**
 
 `https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/profile-erik.jpg`
 
@@ -25,7 +25,7 @@ This is an example to demonstrate how students can easily create their own digit
 
 `https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-twitter.png`
 
-**Dribbbleicon ** 
+**Dribbble icon** 
 
 `https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-dribbble.png`
 
@@ -50,3 +50,4 @@ This is an example to demonstrate how students can easily create their own digit
 	-webkit-transform:translate(0px,-5px);	
 	transform:translate(0px,-5px);
 `
+
