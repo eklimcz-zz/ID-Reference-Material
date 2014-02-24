@@ -32,6 +32,11 @@ This is a gallery of code examples to perform common HTML/CSS tasks
 * [Background Attachment Example](http://jsfiddle.net/eklimcz/Dh2Uz/ "Background Attachment Example") - Example showing how to use a background attachment in CSS.
 
 
+* [CSS Transforms Example](http://jsfiddle.net/eklimcz/2m2Zb/ "CSS Transforms Example") - Basic transforms performed in CSS
+
+* [CSS Transitions Example](http://jsfiddle.net/eklimcz/xPzzD/ "CSS Transitions Example") - Basic transitions performed in CSS
+
+
 ###Other Resources
 * [Paul Irish Box-Sizing Fix ](http://www.paulirish.com/2012/box-sizing-border-box-ftw/ "Paul Irish Box-Sizing Fix") - Better way to manage padding and margins in css. 
 * [Css3please!](http://css3please.com/ CSS3 Please!) - Simple reference for CSS3 properties 
