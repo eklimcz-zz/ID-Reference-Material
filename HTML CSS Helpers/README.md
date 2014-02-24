@@ -1,35 +1,24 @@
-HTML/CSS Sample
+HTML / CSS Helpful Tidbits
 =========
 
-This is an example to demonstrate how students can easily create their own digital business card. The final output can be seen [the final output](http://jsbin.com/wowitore/6/edit?output "here").
+This is a gallery of code examples to perform common HTML/CSS scenarios
 
 
-##HTML / CSS Helpful Tidbits
 * [Relative Positioning](http://jsfiddle.net/eklimcz/25jjE/ "relative positioning") - Shows a basic layout using the relative position CSS property.
 
+* [Absolute Positioning](http://jsfiddle.net/eklimcz/QG9gC/ "absolute positioning") - Positioning Elements with CSS Absolute property.
+
+* [Fixed Positioning](http://jsfiddle.net/eklimcz/hCbcm/ "fixed positioning") - Fixed positioning example using CSS fixed property.
+
+* [Basic Media Queries](http://jsfiddle.net/eklimcz/Gxjyh/ "Basic Media Queries") - Basic Responsive Layout using media queries.
+
+* [Horizontal Centering](http://jsfiddle.net/eklimcz/ueehz/ "Horizontal Centering") - Centering an element horizontally with CSS.
+
+
+###Other Resources
 * [Paul Irish Box-Sizing Fix ](http://www.paulirish.com/2012/box-sizing-border-box-ftw/ "Paul Irish Box-Sizing Fix") - Better way to manage padding and margins in css. 
 * [Css3please!](http://css3please.com/ CSS3 Please!) - Simple reference for CSS3 properties 
 
-## Asset Urls
-**Background Url**
-
-`https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/bg.jpg`
-
-**Profile pic**
-
-`https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/profile-erik.jpg`
-
-**Twitter icon** 
-
-`https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-twitter.png`
-
-**Dribbble icon** 
-
-`https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-dribbble.png`
-
-**Email icon** 
-
-`https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-email.png`
 
 ##Code Snips
 
