@@ -15,3 +15,7 @@ This is a gallery of javascript examples to perform common javascript tasks
 * [Switch Statement](http://jsfiddle.net/eklimcz/mbLb4/ "Javascript - Switch Statement") - Simple example of how to use a switch statement
 
 * [Javascript Events](http://jsfiddle.net/eklimcz/6Ps5q/ "Javascript - Events") - Example Showing basic events with javascript
+
+* [Javascript Functions](http://jsfiddle.net/eklimcz/4NcSw/ "Javascript - Functions") - Simple example of executing basic functions in javascript
+
+
