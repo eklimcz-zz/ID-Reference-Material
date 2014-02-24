@@ -12,3 +12,5 @@ This is a gallery of javascript examples to perform common javascript tasks
 
 * [For Loop and Array](http://jsfiddle.net/eklimcz/3pePx/ "For Loop and Array") - Basic for loop and array using javascript
 
+* [Switch Statement](http://jsfiddle.net/eklimcz/mbLb4/ "Javascript - Switch Statement") - Simple example of how to use a switch statement
+
