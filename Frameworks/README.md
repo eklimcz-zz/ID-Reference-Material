@@ -1,14 +1,15 @@
-Javascript 101 Examples
+Frameworks Examples
 =========
 
-This is a gallery of javascript examples to perform common javascript tasks
+This is a gallery of examples to perform common framework tasks
 
+##jQuery
 
-* [Query Selectors](http://jsfiddle.net/eklimcz/nw2pm/ "relative positioning") - Basic example of how to select an element via javascript
+* [jQuery Selectors](http://jsfiddle.net/eklimcz/99SFp/ "jQuery element selection") - Basic example of how to select an element via jQueryj
 
-* [Basic Variables](http://jsfiddle.net/eklimcz/2SGqf/ "Basic Variables") - Example showing how to work with basic variables
+* [jQuery Hide/Show](http://jsfiddle.net/eklimcz/xVQj9/ "Hide / Show Example in jQuery") - Example showing how to hide/show elements in jQuery
 
-* [IF Then Else](http://jsfiddle.net/eklimcz/37Jx6/ "If Then Else") - Example showing how to work with basic logic
+* [jQuery Fade in/out](http://jsfiddle.net/eklimcz/u98Zw/ "jQuery fade in/out") - Example showing how to fade in/out an element in jQuery
 
 * [For Loop and Array](http://jsfiddle.net/eklimcz/3pePx/ "For Loop and Array") - Basic for loop and array using javascript
 
