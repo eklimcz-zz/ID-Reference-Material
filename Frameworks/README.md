@@ -22,4 +22,5 @@ This is a gallery of examples to perform common framework tasks
 
 * [Group Animation](http://jsfiddle.net/eklimcz/ekR28/ "Example showing how to animate many objects with a few lines of code.") - Example showing how to animate many objects with a few lines of code.
 
+* [OnComplete CallBack](http://jsfiddle.net/eklimcz/PRS5k/ "Showing chained animations with onComplete callback") - Showing chained animations with onComplete callback.
 
