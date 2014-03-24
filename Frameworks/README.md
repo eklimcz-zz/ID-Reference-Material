@@ -24,3 +24,5 @@ This is a gallery of examples to perform common framework tasks
 
 * [OnComplete CallBack](http://jsfiddle.net/eklimcz/PRS5k/ "Showing chained animations with onComplete callback") - Showing chained animations with onComplete callback.
 
+##Bootstrap
+* [Grid Layout](http://jsfiddle.net/eklimcz/TuW2R/ "example showing how to layout a page in bootstrp") - example showing how to layout a page in bootstrp
