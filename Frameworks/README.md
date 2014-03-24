@@ -14,3 +14,12 @@ This is a gallery of examples to perform common framework tasks
 * [Events](http://jsfiddle.net/eklimcz/4nd5Q/ "For Loop and Array") - Example showing how to respond to events in jQuery
 
 * [Data Api](http://jsfiddle.net/eklimcz/68zCw/ "Using the jQuery Data api") - Example showing how to use the Data() api in jQuery
+
+##TweenLite
+* [Animation Types](http://jsfiddle.net/eklimcz/vZbHn/ "Reference showing animation types of tweenlite") - Reference showing animation types of tweenlite
+
+* [Easing](http://jsfiddle.net/eklimcz/68SQL/ "example showing how to use different eases in Tween Lite") - Example showing how to use different eases in Tween Lite
+
+* [Group Animation](http://jsfiddle.net/eklimcz/ekR28/ "Example showing how to animate many objects with a few lines of code.") - Example showing how to animate many objects with a few lines of code.
+
+
