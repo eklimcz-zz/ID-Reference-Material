@@ -17,8 +17,7 @@ audio[controls], canvas, video { display: inline-block; *display: inline; *zoom:
 
 html { font-size: 100%; overflow-y: scroll; -webkit-overflow-scrolling: touch; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
-body {  
-	-webkit-font-smoothing: antialiased;
+body {  -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
     -ms-font-smoothing: antialiased;
     -ms-text-size-adjust: 100%;
@@ -54,17 +53,93 @@ a: focus {
 
 
 html, body{
-   
+   background-color: #e6e7e8;
    width: 100%;
    height: 100%;
+   overflow: hidden;
 }
 
-.rect{
-	width:100px;
-	height: 100px;
-	background-color: #3fa9f5;
+.wrap{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top:0px;
+	left: 0px;
+
+}
+.template{
+	position: absolute;
+	width:471px;
+	height: 561px;
+	top:50%;
+	left:50%;
+	margin-left: -235.5px;
+	margin-top: -280.5px;
+	background-image: url(../img/template.svg);
+	background-size: 470.957px 560.398px;
+	background-repeat: no-repeat;
+
+}
+.clip{
+	position: absolute;
+	
+	top:50%;
+	left:50%;
+	margin-left: -208px;
+	margin-top: -184px;
+	width:372px;
+	height: 372px;	
+	overflow: hidden;
+	background-color: #333;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	background-clip: padding-box;
 }
 
-.row{
-  margin-bottom: 10px;
+.screen{
+	
+	width: 374px;
+	height: 374px;
+	position: absolute;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 373px 373px;
+	top:0px;
+	left: 0px;
 }
+.blur-bg{
+	background-image: url(../img/blurBG.png);
+}
+.one{
+	
+	background-image: url(../img/screen1.png);
+}
+.two{
+	background-image: url(../img/screen2.png);	
+}
+.menu{
+	background-image: url(../img/menu.png);	
+}
+
+
+
+@media all and (max-width:500px) {
+    .wrap{
+    	
+    	transform:scale(.667,.667);
+    	-ms-transform:scale(.667,.667);
+    	-webkit-transform:scale(.667,.667);
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    
+    .wrap{
+    	
+    	transform:scale(.75,.75);
+    	-ms-transform:scale(.75,.75);
+    	-webkit-transform:scale(.75,.75);
+    }
+}
+
+
