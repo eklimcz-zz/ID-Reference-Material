@@ -1,4 +1,4 @@
-# How to Build Second Screen Web App
+# How to Build a Companion Web App
 A second screen application "is an application primarily created to enrich the viewing experience on the First Screen"[[1](http://en.wikipedia.org/wiki/Second_screen)], a common example of this can be seen with Microsoft’s [SmartGlass](http://www.xbox.com/en-US/smartglass) technology. Typically theses experiences rely on native apps to communicate between devices, which limit developers to specific platforms, and in-turn limit the audience developers can reach.
 
 A second screen *web app* uses modern web technologies to deliver a similar experience without the dependency of writing native code. In this post we explore how to create a simple second screen or companion experience.
