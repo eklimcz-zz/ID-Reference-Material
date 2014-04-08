@@ -1,21 +1,11 @@
-Javascript 101 Examples
+Alternative Input Examples
 =========
 
-This is a gallery of javascript examples to perform common javascript tasks
+This is a collection of small web applications that demonstrate alternative interaction concepts. 
 
 
-* [Query Selectors](http://jsfiddle.net/eklimcz/nw2pm/ "relative positioning") - Basic example of how to select an element via javascript
+* **Companion Web** - Basic framework for building and running a companion web applicaiton. 
 
-* [Basic Variables](http://jsfiddle.net/eklimcz/2SGqf/ "Basic Variables") - Example showing how to work with basic variables
+* **Makey Particles** - Web application using processing and makey makey to demonstrate alternative inputs. 
 
-* [IF Then Else](http://jsfiddle.net/eklimcz/37Jx6/ "If Then Else") - Example showing how to work with basic logic
-
-* [For Loop and Array](http://jsfiddle.net/eklimcz/3pePx/ "For Loop and Array") - Basic for loop and array using javascript
-
-* [Switch Statement](http://jsfiddle.net/eklimcz/mbLb4/ "Javascript - Switch Statement") - Simple example of how to use a switch statement
-
-* [Javascript Events](http://jsfiddle.net/eklimcz/6Ps5q/ "Javascript - Events") - Example Showing basic events with javascript
-
-* [Javascript Functions](http://jsfiddle.net/eklimcz/4NcSw/ "Javascript - Functions") - Simple example of executing basic functions in javascript
-
-
+* **Makey Photobooth** - Web application using Three.JS, TweenLite, and makey makey to create a unique photobooth interaction.
