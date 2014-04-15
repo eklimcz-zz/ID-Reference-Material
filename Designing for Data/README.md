@@ -18,3 +18,11 @@ The Designing for Data demo demonstrates how to consume a realistic JSON data so
 
 **Google Maps Heat Map**
 - The demo code plots geographical locations on a map with [Google Maps Heat Maps](https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap "Google Maps Heatmaps").
+
+##Other resources
+- [Basic Chart Code](http://jsfiddle.net/eklimcz/d22sB/ ""). - Manually create a bar chart. 
+
+- [Basic ChartJS Code](http://jsfiddle.net/eklimcz/5gHVY// ""). - Basic example showing how to implment a chartJS chart.
+
+
+
