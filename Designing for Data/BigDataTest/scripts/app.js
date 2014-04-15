@@ -97,7 +97,7 @@ $(document).ready(function() {
             //map the data to an object we can work with
             //var sample = _.sample(data.data, 100);
             allCars = _.map(data.data, function(el, index) {
-                //console.log(el);
+
                 return {
                     creationDate: el[8],
                     make: el[14],
@@ -112,7 +112,7 @@ $(document).ready(function() {
                 }
             });
 
-            //console.log(allCars);
+
             //group by make
             var groupedList = _.groupBy(allCars, "make");
 
