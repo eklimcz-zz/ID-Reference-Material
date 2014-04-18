@@ -16,7 +16,7 @@ The Designing for Data demo demonstrates how to consume a realistic JSON data so
 ##Other resources
 - [Basic Chart Code](http://jsfiddle.net/eklimcz/d22sB/ "") - Manually create a bar chart. 
 
-- [Basic ChartJS Code](http://jsfiddle.net/eklimcz/5gHVY// "") - Basic example showing how to implment a chartJS chart.
+- [Basic ChartJS Code](http://jsfiddle.net/eklimcz/5gHVY/ "") - Basic example showing how to implment a chartJS chart.
 
 
 
