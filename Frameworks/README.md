@@ -30,3 +30,6 @@ This is a gallery of examples to perform common framework tasks
 * [Grid Layout](http://jsfiddle.net/eklimcz/TuW2R/ "example showing how to layout a page in bootstrp") - example showing how to layout a page in bootstrap
 
 * [Framework Mashup](http://jsfiddle.net/eklimcz/SH4qY/ "example showing how to mashup bootstrap with other frameworks") - example showing how to mashup bootstrap with other frameworks
+
+##Baby Example
+[Baby example](http://jsfiddle.net/eklimcz/g2zatabw/)
