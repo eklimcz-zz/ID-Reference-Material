@@ -9,3 +9,8 @@ The [Watchme Demo](http://experiments.truthlabs.com/watchme/ "Touch prototype") 
 **PxTouch**
 
 The watchme example leverages the [PxTouch jQuery Plugin](https://github.com/thinkpixellab/PxTouch "PxTouch") to provide normalized gesture events accross browers.  Be sure to read the documentation before integrating into your own project.
+
+##Manipulation Sample
+
+This is a sample showing how to manipulate a visual with realtime feedback 
+http://jsbin.com/horesevace/1/
