@@ -40,7 +40,7 @@ $(document).ready(function() {
         animationEasing: "easeOutQuint",
     }
 
-    //neightborhood
+    //neighborhood
     var neighborhoodData = {
         labels: [],
         datasets: [{
@@ -94,10 +94,9 @@ $(document).ready(function() {
         // load in abandon car data
         $.getJSON("data/abandonedCars.json", function(data) {
 
-            //map the data to an object we can work with
-            //var sample = _.sample(data.data, 100);
+            //map the data to an object we can work with            
             allCars = _.map(data.data, function(el, index) {
-
+                //console.log(el);
                 return {
                     creationDate: el[8],
                     make: el[14],
@@ -112,7 +111,7 @@ $(document).ready(function() {
                 }
             });
 
-
+            //console.log(allCars);
             //group by make
             var groupedList = _.groupBy(allCars, "make");
 
@@ -249,7 +248,7 @@ $(document).ready(function() {
 
         //code source: https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap
         //var sample = _.sample(data, 900); //gmaps doesn't handle 70k datapoints well
-        //filter for 2013 data only
+        
 
         var locationData = _.map(data, function(el, index) {
             return new google.maps.LatLng(el.location.lat, el.location.lng);
