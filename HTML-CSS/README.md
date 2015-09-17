@@ -12,7 +12,7 @@ This is an example to demonstrate how students can easily create their own digit
 * [LearnLayout.com](http://learnlayout.com/) - Interactive guide to leanring layout with css
 * [CSS Font Smoothing](https://gist.github.com/eklimcz/9046333 "CSS Font Smoothing") - Code snippet for better font rendering in the browser.
 * [Paul Irish Box-Sizing Fix ](http://www.paulirish.com/2012/box-sizing-border-box-ftw/ "Paul Irish Box-Sizing Fix") - Better way to manage padding and margins in css. 
-* [Css3please!](http://css3please.com/ CSS3 Please!) - Simple reference for CSS3 properties 
+* [Css3please!](http://css3please.com) - Simple reference for CSS3 properties 
 
 ## Asset Urls
 **Background Url**
