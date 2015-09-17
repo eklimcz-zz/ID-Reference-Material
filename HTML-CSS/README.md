@@ -1,7 +1,7 @@
 HTML/CSS Sample
 =========
 
-This is an example to demonstrate how students can easily create their own digital business card. The final output can be seen [the final output](http://jsbin.com/wowitore/6/edit?output "here").
+This is an example to demonstrate how students can easily create their own digital business card. The final output can be seen [the final output](http://jsbin.com/gogibu "here").
 
 
 ##Requirements
