@@ -27,7 +27,7 @@ This is an example to demonstrate how students can easily create their own digit
 
 **Dribbble icon** 
 
-`https://raw.githubusercontent.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon_dribbble.svg`
+`https://raw.githubusercontent.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-dribbble.png`
 
 **Email icon** 
 
