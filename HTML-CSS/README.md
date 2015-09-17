@@ -8,6 +8,8 @@ This is an example to demonstrate how students can easily create their own digit
 * **JS Bin** - a free online code editing playground. Sign up here: http://jsbin.com/
 
 ##Reference Urls
+* [CSS Reference](http://www.w3schools.com/cssref/) - W3C style reference for CSS
+* [LearnLayout.com](http://learnlayout.com/) - Interactive guide to leanring layout with css
 * [CSS Font Smoothing](https://gist.github.com/eklimcz/9046333 "CSS Font Smoothing") - Code snippet for better font rendering in the browser.
 * [Paul Irish Box-Sizing Fix ](http://www.paulirish.com/2012/box-sizing-border-box-ftw/ "Paul Irish Box-Sizing Fix") - Better way to manage padding and margins in css. 
 * [Css3please!](http://css3please.com/ CSS3 Please!) - Simple reference for CSS3 properties 
