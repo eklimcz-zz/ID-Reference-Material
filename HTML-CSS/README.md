@@ -15,23 +15,23 @@ This is an example to demonstrate how students can easily create their own digit
 ## Asset Urls
 **Background Url**
 
-`https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/bg.jpg`
+`https://raw.githubusercontent.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/bg.jpg`
 
 **Profile pic**
 
-`https://raw2.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/profile-erik.jpg`
+`https://raw.githubusercontent.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/profile-erik.jpg`
 
 **Twitter icon** 
 
-`https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-twitter.png`
+`https://raw.githubusercontent.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-twitter.png`
 
 **Dribbble icon** 
 
-`https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-dribbble.png`
+`https://raw.githubusercontent.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon_dribbble.svg`
 
 **Email icon** 
 
-`https://raw.github.com/eklimcz/ID-Reference-Material/master/HTML-CSS/Site%20Artwork/assets/icon-email.png`
+`https://github.com/eklimcz/ID-Reference-Material/blob/master/HTML-CSS/Site%20Artwork/assets/icon-email.png`
 
 ##Code Snips
 
